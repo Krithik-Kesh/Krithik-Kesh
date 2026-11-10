@@ -1,16 +1,5 @@
-<div align="center">
-  <img src="assets/banner.svg" alt="Krithik Tamilselvan — Machine Learning, Cognitive Science and Software Engineering" width="100%">
-</div>
 
-<p align="center">
-  <a href="mailto:k.tamilselvan@mail.utoronto.ca"><img src="https://img.shields.io/badge/Email-C71610?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/Krithik-Kesh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <img src="https://img.shields.io/badge/Toronto%2C_ON-1F2937?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Toronto, Ontario">
-</p>
-
----
-
-## About me in a nutshell
+## About me
 
 - **B.Sc. student at the University of Toronto**, studying Computational Cognitive Sciences & Statistics with a data science focus (expected April 2028).
 - **ML / software engineering experience at McAsphalt:** deployed document retrieval systems and forecasting models designed for operational use.
