@@ -86,18 +86,6 @@
 
 <br>
 
-# 🧠 Currently Exploring
-
-### Multimodal Cognitive-Workload Wearable <sub>early-stage prototype</sub>
-
-![PPG](https://img.shields.io/badge/MAX30102-PPG-475569?style=flat-square) ![IMU](https://img.shields.io/badge/MPU6050-IMU-475569?style=flat-square) ![Computer Vision](https://img.shields.io/badge/Pupil_Tracking-6D28D9?style=flat-square)
-
-- **Research goal.** Explore whether combining pulse-derived measurements, head movement, and pupil features can help estimate cognitive workload during mentally demanding tasks.
-- **Planned hardware.** MAX30102 optical pulse sensor, MPU6050 inertial measurement unit, and an eye-facing camera.
-- **Status.** Hardware and evaluation design in progress; no validated model performance claimed.
-
-<br>
-
 # 🧰 Toolkit
 
 | Area | Technologies |
